@@ -4,21 +4,17 @@ about:
   id: about-block
   image: "img/my_image.jpg"
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/MarvinSchmittML
     - icon: github
       text: Github
-      href: https://github.com/marvinschmitt
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+      href: https://github.com/TranHung93
     - icon: envelope
       text: Email
-      href: "mailto:mail.marvinschmitt@gmail.com"  
+      href: "hungtt@oucru.org"  
 ---
 
 ::: {#about-block}
+
+what's this?
 :::
 
 # Welcome to my website!
