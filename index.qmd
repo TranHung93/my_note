@@ -9,7 +9,7 @@ about:
       href: https://github.com/TranHung93
     - icon: envelope
       text: Email
-      href: "hungtt@oucru.org"  
+      href: "mailto:thaihung.tran306@gmail.com"  
 ---
 
 ::: {#about-block}
