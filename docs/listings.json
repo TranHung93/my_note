@@ -1,0 +1,23 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/post/photography/index.html",
+      "/post/post_1/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/photography/index.html",
+      "/projects/post_1/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/photography/index.html",
+      "/blog/post_1/index.html"
+    ]
+  }
+]

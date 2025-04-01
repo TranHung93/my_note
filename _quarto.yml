@@ -6,19 +6,19 @@ website:
   description: "This is a note where I write down my learning journey"   # A brief slogan (optional)
   image: img/my_image.jpg
   
-  favicon: img/favicon.png
+  favicon: img/my_image.jpg
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    logo: /img/my_image.jpg
     
     # your sub-pages
     left:
-      - text: "Projects"
-        href: projects/index.qmd
-      - text: "Photography"
-        href: photography/index.qmd
+      - text: "About"
+        href: about/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
       - text: "CV"
         href: cv/index.qmd
     
@@ -37,6 +37,7 @@ website:
   page-footer: 
     left: |
       <span class="faux-block">&#169; 2025 Tran Thai Hung </span>
+      <span class="faux-block">All content licensed under<br>[Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>
     center: |
      
     right: |

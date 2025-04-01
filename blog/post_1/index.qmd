@@ -1,5 +1,12 @@
 ---
-title: Projects
+title: Introduction
+author:
+  - name: Tran Thai Hung
+    affiliation: OUCRU<br>Biostatistics
+date: 2025-04-01
+modified: 
+categories: [2025, principles]
+description: "A Cornerstone of This Blog"
 ---
 
 ## The Languages of Middle-earth
